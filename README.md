@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring the web3 data world and have a keen interest in blockchain technology
+- 🔭 I’m currently working on a music recommendation engine project + learning about hierarchical Bayesian Inference.
 - 🌱 I’m currently learning Advanced SQL, Cloud Computing Tools & Robust OOP in Python
 - 💼 Would love to work as an analytics engineer in the future ! 
 
