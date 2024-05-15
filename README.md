@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ML, Cloud Computing Tools & Robust OOP in Python
 - 💼 Data Scientist in PE
 - 📚 Incoming Data Science & Machine Learning student at Imperial College London
+- Langauges: JavaScript, Python, SQL
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrankhan37&show_icons=true&theme=radical)
 
