@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a music recommendation engine project + learning about hierarchical Bayesian Inference.
-- 🌱 I’m currently learning Advanced SQL, Cloud Computing Tools & Robust OOP in Python
-- 💼 Would love to work as an analytics engineer in the future ! 
+- 🔭 I’m currently working on a chrome extension
+- 🌱 I’m currently learning ML, Cloud Computing Tools & Robust OOP in Python
+- 💼 Data Scientist in PE
+- 📚 Incoming Data Science & Machine Learning student at Imperial College London
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrankhan37&show_icons=true&theme=radical)
 
