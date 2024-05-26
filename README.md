@@ -10,4 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrankhan37)](https://github.com/imrankhan37/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrankhan37&show_icons=true)
+
 
