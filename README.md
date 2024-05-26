@@ -8,6 +8,6 @@
 
 [![Top Langs](github-readme-stats-two-green-52.vercel.app/api/top-langs/?username=imrankhan37)](https://github.com/imrankhan37/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-3opq4zjuw-imrankhan37s-projects.vercel.app/api?username=imrankhan37&show_icons=true)
+![Anurag's GitHub stats](github-readme-stats-two-green-52.vercel.app/api?username=imrankhan37&show_icons=true)
 
 
