@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a chrome extension
+- 🔭 I’m currently working on an agentic pipeline to help test me on my lecture notes
 - 🌱 I’m currently learning ML, Cloud Computing Tools & Robust OOP in Python
-- 💼 Data Scientist in PE
+- 💼 Data Scientist in Fintech
 - 📚 Data Science & Machine Learning student at Imperial College London
 - Langauges: JavaScript, Python, SQL
 
